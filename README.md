@@ -1,1 +1,1 @@
-#*demoApp2
+#demoApp2
